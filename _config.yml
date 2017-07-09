@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I like dabbling with Lisp. Emacs is the one true editor.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://jerme.me" # the base hostname & protocol for your site
+url: "https://jaerme.github.io" # the base hostname & protocol for your site
 
 author:
   name: 'Jeremy Anthony Lee'
