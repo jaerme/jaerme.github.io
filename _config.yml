@@ -1,11 +1,11 @@
 # Site settings
 permalink: /:year/:month/:title/
 paginate: 5
-title: jerme
-tagline: 'Code Musings'
+title: jaerme
+tagline: ''
 keywords: software,engineering,functional,programming,lisp
 description: > # this means to ignore newlines until "baseurl:"
-  I like dabbling with Lisp. Emacs is the one true editor.
+  Javascript and Clojure developer. Emacs is the one true editor.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jaerme.github.io" # the base hostname & protocol for your site
@@ -26,6 +26,6 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 highlighter: rouge
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
